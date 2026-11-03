@@ -1,0 +1,10 @@
+[
+  {"name": "bclr", "tohost": "80002640", "words": 1428},
+  {"name": "bclri", "tohost": "80002340", "words": 1236},
+  {"name": "bext", "tohost": "800025c0", "words": 1396},
+  {"name": "bexti", "tohost": "80002300", "words": 1220},
+  {"name": "binv", "tohost": "80002600", "words": 1412},
+  {"name": "binvi", "tohost": "80002300", "words": 1220},
+  {"name": "bset", "tohost": "80002640", "words": 1428},
+  {"name": "bseti", "tohost": "80002340", "words": 1236}
+]

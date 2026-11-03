@@ -1,0 +1,18 @@
+[
+  {"name": "breakpoint", "tohost": "80002340", "words": 1250},
+  {"name": "csr", "tohost": "80002440", "words": 1314},
+  {"name": "illegal", "tohost": "800025c0", "words": 1410},
+  {"name": "instret_overflow", "tohost": "80002280", "words": 1202},
+  {"name": "lh-misaligned", "tohost": "80002280", "words": 1202},
+  {"name": "lw-misaligned", "tohost": "80002300", "words": 1234},
+  {"name": "ma_addr", "tohost": "80002500", "words": 1362},
+  {"name": "ma_fetch", "tohost": "800023c0", "words": 1282},
+  {"name": "mcsr", "tohost": "80002280", "words": 1202},
+  {"name": "pmpaddr", "tohost": "80002300", "words": 1234},
+  {"name": "sbreak", "tohost": "80002280", "words": 1202},
+  {"name": "scall", "tohost": "800022c0", "words": 1218},
+  {"name": "sh-misaligned", "tohost": "800022c0", "words": 1218},
+  {"name": "shamt", "tohost": "80002280", "words": 1202},
+  {"name": "sw-misaligned", "tohost": "80002340", "words": 1250},
+  {"name": "zicntr", "tohost": "80002340", "words": 1250}
+]

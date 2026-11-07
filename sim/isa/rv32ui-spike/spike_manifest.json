@@ -1,0 +1,248 @@
+[
+  {
+    "name": "add",
+    "tohost": "80002540",
+    "words": 1364,
+    "image_sha256": "ae7510b234261fe91cb397777f5e4a3fa1266dc2bf9c25f865f19b2355bce3b6"
+  },
+  {
+    "name": "addi",
+    "tohost": "800022c0",
+    "words": 1204,
+    "image_sha256": "572cdd34732aa3b46871b37904532dbc87048bd8e8fc5da46c6d78c39946e386"
+  },
+  {
+    "name": "and",
+    "tohost": "80002500",
+    "words": 1348,
+    "image_sha256": "298f414556ca398c0cfb754d3f7852259fcec7631fe5a2b627d74cda07a34e13"
+  },
+  {
+    "name": "andi",
+    "tohost": "80002200",
+    "words": 1156,
+    "image_sha256": "39a874d6dc696defcfdcdc0537b2e3066273438fcf3dfdb043a81f650e63aed5"
+  },
+  {
+    "name": "auipc",
+    "tohost": "80002080",
+    "words": 1060,
+    "image_sha256": "357602dbbf56d96cd53199bef09f2657245f382db2a8ca144fcbc38f628c310d"
+  },
+  {
+    "name": "beq",
+    "tohost": "80002300",
+    "words": 1220,
+    "image_sha256": "18fd1543495d0b17a14e8fff9cbc4f035e593c419132ecc517670088f9607a12"
+  },
+  {
+    "name": "bge",
+    "tohost": "80002380",
+    "words": 1252,
+    "image_sha256": "a9976fa14516b0d96f3f7a586cc908ec6d21d59436ff2d77abe0c7bfa2a7a123"
+  },
+  {
+    "name": "bgeu",
+    "tohost": "80002380",
+    "words": 1252,
+    "image_sha256": "fd8fd485a53713f9fa7b255b66b733df10300ae16a08f3704822766f10b2a1c6"
+  },
+  {
+    "name": "blt",
+    "tohost": "80002300",
+    "words": 1220,
+    "image_sha256": "db95d6402eba07d60a3e4002ab961761eccb533aa608c5385a6c1456ccb4433a"
+  },
+  {
+    "name": "bltu",
+    "tohost": "80002340",
+    "words": 1236,
+    "image_sha256": "c44a48a62a8f98b767c72b0570d0eb9593dc9d6763aeecfd10a0f69ed33b70ba"
+  },
+  {
+    "name": "bne",
+    "tohost": "80002300",
+    "words": 1220,
+    "image_sha256": "8342b29ff009d3eebfad40b2fa9ef4185fa34347e327e95f72eeba68aacdc266"
+  },
+  {
+    "name": "fence_i",
+    "tohost": "80002180",
+    "words": 1124,
+    "image_sha256": "f8429078b7d62ae308c26d47c4c6d28a71601e892f55212336a319d7e6d4dc31"
+  },
+  {
+    "name": "jal",
+    "tohost": "80002080",
+    "words": 1060,
+    "image_sha256": "3f77e1bc9d9a892ab2cbbcb2f897514d02d691bf61b84a6a055f73b6ce6c72fb"
+  },
+  {
+    "name": "jalr",
+    "tohost": "80002140",
+    "words": 1108,
+    "image_sha256": "dc9cd5305333e1d01ca3d299b42a579bcfc4158f18d5dcc0583be7ce1562d31e"
+  },
+  {
+    "name": "lb",
+    "tohost": "800022c0",
+    "words": 1204,
+    "image_sha256": "4f79f48affe113d2ff75771284a31bea891abd95d64ff5d73e6acce15458644f"
+  },
+  {
+    "name": "lbu",
+    "tohost": "800022c0",
+    "words": 1204,
+    "image_sha256": "f0ce8556af61c2f4843c51c4b0989726d102057feaef9be3f34c73e9b49d9e77"
+  },
+  {
+    "name": "ld_st",
+    "tohost": "80002f00",
+    "words": 1988,
+    "image_sha256": "6708a89190f11370b5ef9d0eea19e4db14ab22b7d5552ab2a72cea1bade05c4c"
+  },
+  {
+    "name": "lh",
+    "tohost": "80002300",
+    "words": 1220,
+    "image_sha256": "a9b1faddcec6ee967d85450069a63479378f4637afc4313450effc690ad43960"
+  },
+  {
+    "name": "lhu",
+    "tohost": "80002300",
+    "words": 1220,
+    "image_sha256": "391b1fa45697b31c474544ef921ed1acd9394cf624867439707bcf1253113e90"
+  },
+  {
+    "name": "lui",
+    "tohost": "800020c0",
+    "words": 1076,
+    "image_sha256": "d9e5b51782001093be570ba1e4eeaa141843e872b7b85d792340e8bd5a8a1a47"
+  },
+  {
+    "name": "lw",
+    "tohost": "80002340",
+    "words": 1236,
+    "image_sha256": "6198b366a1acbb9708b1a8c688468a87fa709766857109131036717adbd628cb"
+  },
+  {
+    "name": "or",
+    "tohost": "80002500",
+    "words": 1348,
+    "image_sha256": "773866a9eb927f4525df3210b7e3d70d24e3ca7981e99af4676a1518bc75f081"
+  },
+  {
+    "name": "ori",
+    "tohost": "80002240",
+    "words": 1172,
+    "image_sha256": "b7aeb47adc17dd1a062b58b421d776be1d145e7b362e708658cd44098dd0ad03"
+  },
+  {
+    "name": "sb",
+    "tohost": "800024c0",
+    "words": 1332,
+    "image_sha256": "11c33afc20b624a2859a1662e9ae013aab22e141b8caba9352e0671f6688db3c"
+  },
+  {
+    "name": "sh",
+    "tohost": "80002580",
+    "words": 1380,
+    "image_sha256": "3eb456df08c328ffdbb07a43c0b0172c822c99d9acd449613ebf1d1c80edb5c3"
+  },
+  {
+    "name": "simple",
+    "tohost": "80002040",
+    "words": 1044,
+    "image_sha256": "0eacb447022dd066d4ea0ede7fd585e31cf32296506fbf6df04af31992abe52c"
+  },
+  {
+    "name": "sll",
+    "tohost": "80002580",
+    "words": 1380,
+    "image_sha256": "0d841b793b3ba482473fc0852078ad46de71e2a2ec9223fc07caacdf1e07bca7"
+  },
+  {
+    "name": "slli",
+    "tohost": "800022c0",
+    "words": 1204,
+    "image_sha256": "a3e4944577017084b55ea62873cf19cb5c01a82a84e115edb358f8585bdff1c3"
+  },
+  {
+    "name": "slt",
+    "tohost": "80002500",
+    "words": 1348,
+    "image_sha256": "8bd2a11d214619ab9a6dfc8f5bfef86f6b2035e69ababc1ed0f8f3a0b81731a5"
+  },
+  {
+    "name": "slti",
+    "tohost": "800022c0",
+    "words": 1204,
+    "image_sha256": "6376dff0f176d865b5e81e20eee9a65bb40986797b17700bd51f61d52d5a7325"
+  },
+  {
+    "name": "sltiu",
+    "tohost": "800022c0",
+    "words": 1204,
+    "image_sha256": "533ea3f9190d87162ff4a1a10bb129ff7c86ee074771671f075c1e53dec02f4b"
+  },
+  {
+    "name": "sltu",
+    "tohost": "80002500",
+    "words": 1348,
+    "image_sha256": "d2657234492b1f1ccdee46a992458890f6ae3b718e839692de915da967d3f46d"
+  },
+  {
+    "name": "sra",
+    "tohost": "80002600",
+    "words": 1412,
+    "image_sha256": "d9d71dfcde45efe0e596d27447dab2c8e293fd9fb37707faae31cec6427833cf"
+  },
+  {
+    "name": "srai",
+    "tohost": "80002300",
+    "words": 1220,
+    "image_sha256": "6ca76e6371f481e1e6b66fd5735630da99171ec7af830c96cf492daeca839dc0"
+  },
+  {
+    "name": "srl",
+    "tohost": "800025c0",
+    "words": 1396,
+    "image_sha256": "0f72e08ad6b880d92dadf78f072d7e6c64a322ef4850afe3c1bc3bbf74209334"
+  },
+  {
+    "name": "srli",
+    "tohost": "80002300",
+    "words": 1220,
+    "image_sha256": "831a3a53513c1f56e076f6de2f84650355eca8cbd66ab06f9c4c5e8b7d3d22f2"
+  },
+  {
+    "name": "st_ld",
+    "tohost": "80002780",
+    "words": 1508,
+    "image_sha256": "7d80570a27436fef778df0fae613ae50c2769fbfd73237f46c721f649727b218"
+  },
+  {
+    "name": "sub",
+    "tohost": "80002500",
+    "words": 1348,
+    "image_sha256": "a8bc37993395af8e01bb3ee1affb78ecff342d37cad28e54de3025b54b6515cd"
+  },
+  {
+    "name": "sw",
+    "tohost": "80002580",
+    "words": 1380,
+    "image_sha256": "1c90c6027575f91b51e2198d2c1024c0064383324ef92f313cfe7e4c4454304c"
+  },
+  {
+    "name": "xor",
+    "tohost": "80002500",
+    "words": 1348,
+    "image_sha256": "c5ed810403a4e60cf75d9ee1c1946460631816cb080feacb8d0a56291377a6b3"
+  },
+  {
+    "name": "xori",
+    "tohost": "80002240",
+    "words": 1172,
+    "image_sha256": "3aee536dba097c16a05ec4cac713a26f2310322caa1c6ce73753543fca77ff95"
+  }
+]
